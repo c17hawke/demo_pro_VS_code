@@ -1,4 +1,5 @@
 import numpy as np
 import pandas as pd
 
-print(np.random.randn(1))
+if __name__ == '__main__':
+    print(np.random.randn(1))
